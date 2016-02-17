@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T14:59:16.576Z'
-dateModified: '2016-02-17T14:56:54.729Z'
+datePublished: '2016-02-17T15:09:35.993Z'
+dateModified: '2016-02-17T15:09:31.411Z'
 title: The High Plaines Drifter
 author: []
 authors: []
