@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The High Plaines Drifter]]></title>
         <description><![CDATA[The High Plaines Drifter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-high-plaines-drifter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 19:29:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 15:02:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-high-plaines-drifter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The High Plaines Drifter]]></title>
+            <description><![CDATA[<article><h1>The High Plaines Drifter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1330e5d94b0579ee1f6f5d5e6069496103fe19d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-high-plaines-drifter/the-high-plaines-drifter/index.html</link>
+            <guid isPermaLink="false">04f30fc6-f312-4335-a713-5b52e710edb3</guid>
+            <pubDate>Wed, 17 Feb 2016 14:59:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08f7596-b203-4bb5-b387-e919cab83290.JPG">]]></description>
-            <link>undefined7225a9b6-cc6b-4164-8fb1-f1d4bc10b1f7/index.html</link>
+            <link>https://thegrid.ai/the-high-plaines-drifter/7225a9b6-cc6b-4164-8fb1-f1d4bc10b1f7/index.html</link>
             <guid isPermaLink="false">7225a9b6-cc6b-4164-8fb1-f1d4bc10b1f7</guid>
             <pubDate>Thu, 21 Jan 2016 19:29:32 GMT</pubDate>
         </item>
