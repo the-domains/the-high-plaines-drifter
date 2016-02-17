@@ -22,8 +22,8 @@ color:
     - '#cfd4da'
     - '#fefef4'
     - '#18191e'
-  brandStrength: 0.4375
+  brandStrength: 0.25
   lightness: 0.5
-  saturation: 0.625
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
