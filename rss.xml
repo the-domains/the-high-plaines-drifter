@@ -2,23 +2,16 @@
     <channel>
         <title><![CDATA[The High Plaines Drifter]]></title>
         <description><![CDATA[The High Plaines Drifter]]></description>
-        <link>https://thegrid.ai/the-high-plaines-drifter/</link>
+        <link>http://thehighplainsdrifter.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 00:16:39 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/the-high-plaines-drifter/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 15:17:58 GMT</lastBuildDate>
+        <atom:link href="http://thehighplainsdrifter.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The High Plaines Drifter]]></title>
+            <title><![CDATA[Business Beats Product]]></title>
             <description><![CDATA[<p>Having a contrarian opinion can be a bad thing if you don't have the data to back it up and, in my book, product first methodologies like lean have been suspect for awhile. As an entrepreneur, I've been finding that this is not a popular position to take. Lean has an almost cult-like following and status, but I'm not sure why especially after looking at the numbers.</p>]]></description>
-            <link>https://thegrid.ai/the-high-plaines-drifter/the-high-plaines-drifter/index.html</link>
+            <link>http://thehighplainsdrifter.com/the-high-plaines-drifter/index.html</link>
             <guid isPermaLink="false">04f30fc6-f312-4335-a713-5b52e710edb3</guid>
-            <pubDate>Wed, 08 Jun 2016 21:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08f7596-b203-4bb5-b387-e919cab83290.JPG">]]></description>
-            <link>https://thegrid.ai/the-high-plaines-drifter/7225a9b6-cc6b-4164-8fb1-f1d4bc10b1f7/index.html</link>
-            <guid isPermaLink="false">7225a9b6-cc6b-4164-8fb1-f1d4bc10b1f7</guid>
-            <pubDate>Thu, 21 Jan 2016 19:29:32 GMT</pubDate>
+            <pubDate>Thu, 09 Jun 2016 15:17:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
