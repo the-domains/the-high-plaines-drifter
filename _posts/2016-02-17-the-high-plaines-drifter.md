@@ -10,8 +10,8 @@ description: >-
   suspect for awhile. As an entrepreneur, I've been finding that this is not a
   popular position to take. Lean has an almost cult-like following and status,
   but I'm not sure why especially after looking at the numbers.
-datePublished: '2016-06-08T21:36:21.686Z'
-dateModified: '2016-06-08T21:36:14.063Z'
+datePublished: '2016-06-09T15:17:53.867Z'
+dateModified: '2016-06-09T15:10:39.942Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-17-the-high-plaines-drifter.md
@@ -22,7 +22,7 @@ url: the-high-plaines-drifter/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1fce5b-db2c-4506-828a-1e6f61df0162.jpg)
+Business Beats Product ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1fce5b-db2c-4506-828a-1e6f61df0162.jpg)
 
 Having a contrarian opinion can be a bad thing if you don't have the data to back it up and, in my book, product first methodologies like lean have been suspect for awhile. As an entrepreneur, I've been finding that this is not a popular position to take. Lean has an almost cult-like following and status, but I'm not sure why especially after looking at the numbers.
 
